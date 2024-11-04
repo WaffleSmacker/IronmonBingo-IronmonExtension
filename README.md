@@ -32,35 +32,57 @@ This requires a bit of setup and is not as easily implemented as other IronMon E
 [Stream Bingo](https://stream-bingo.com/)
 
 1) Set up a new Bingo Card for Kaizo Ironmon
+
 ![image](https://github.com/user-attachments/assets/b9a3fab1-29da-4a0d-adce-9adb6ae2207d)
 
-2) Get the values from the BingoEvents.txt file and create all of the events. (current count: 48)
+3) Get the values from the BingoEvents.txt file and create all of the events. (current count: 48)
+
 ![image](https://github.com/user-attachments/assets/5692d58e-40dc-424a-9323-59a0ad36a04a)
-3) Get the webhook link from the Extension and add the link next to the coresponding event in the bingoLinks.json
+
+5) Get the webhook link from the Extension and add the link next to the coresponding event in the bingoLinks.json
+
 ![image](https://github.com/user-attachments/assets/9cf6d898-3e4b-40b6-a238-50b2d397010c)
-4) Put the links here:
+
+7) Put the links here:
+
 ![image](https://github.com/user-attachments/assets/e3bf6a99-000d-47ad-8e77-4495c21ef5f7)
+
 
 ## StreamerBot Setup:
 1) Open streamerbot
 2) Click "Import"
+
 ![image](https://github.com/user-attachments/assets/d7661cf2-b8f2-4299-acb6-d981f091e22f)
+
 3) Drag and Drop the "StreamerBot Settings" file into the import section.
+
 ![image](https://github.com/user-attachments/assets/349ae504-4692-4f37-88a1-4cafb2a14fa7)
+
 ![image](https://github.com/user-attachments/assets/a7357ac7-6a7a-4df7-a290-b26cd7861594)
+
 4) Click "Import"
 5) Go to "Trigger Bingo Event" Double click on "Execute Code"
+
 ![image](https://github.com/user-attachments/assets/4bcd6f54-e6f7-41b0-b4dc-0d463ab67f79)
+
 6) Update the paths here to link to where your IronMon Extension is saved (I left my path there as a reference)
+
 ![image](https://github.com/user-attachments/assets/05e5c15b-fac2-4605-b4de-4905fb188ec1)
+
 7) Hit "Save and Compile" on the bottom right.
 8) Do the same for "Reset All Bingo Data"
+
 ![image](https://github.com/user-attachments/assets/6f9290d6-7e7c-4e5e-8edd-3eac8039c024)
+
 ![image](https://github.com/user-attachments/assets/8f592474-b2a7-41ad-bc2c-21ef52d8ebba)
+
 9) Make sure the "!newbingo" command is enabled:
+
 ![image](https://github.com/user-attachments/assets/d1705860-4f9d-41ee-ae64-9c18d46d2bad)
+
 10) Test the command in your chat:  !newbingo
 11) If you get something like the following you are good to go:
+
 ![image](https://github.com/user-attachments/assets/0f25287c-ae6e-44a8-a759-d4fd1da30455)
 
 
