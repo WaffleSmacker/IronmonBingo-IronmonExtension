@@ -24,6 +24,7 @@ This requires a bit of setup and is not as easily implemented as other IronMon E
 6) Click the "**Install New**" button at the bottom to check for newly installed extensions
    - If you don't see anything in the extensions list, double-check the extension files are installed in the right location. Refer to the [Tracker wiki documentation](https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#install-and-setup-1) if you need additional help
 7) Click on the "**IronMonBingo**" extension button to view the extension and turn it on
+
 ![image](https://github.com/user-attachments/assets/b51ae62b-04fb-4092-9b85-c3c314d7db6b)
 ![image](https://github.com/user-attachments/assets/42d4c31f-9af2-471e-9721-ce90878ecedc)
 
